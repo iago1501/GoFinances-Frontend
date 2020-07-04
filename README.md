@@ -3,7 +3,9 @@ Projeto a ser criado no desafio será o GoFinances.
 
 Go Finances é um sistema de gerenciamento e controle de finanças, onde você pode inserir
 valores de entrada e saída de transações através de uma carga em CSV.
-O modelo da carga pode ser encontrada clicando[https://github.com/iago1501/GoFinances-Backend/blob/master/src/database/template.csv](aqui):
+O modelo da carga pode ser encontrada [clicando aqui](https://github.com/iago1501/GoFinances-Backend/blob/master/src/database/template.csv):
+
+![Homepage](./public/home.png)
 
 ## Configuraçõs Iniciais
 
